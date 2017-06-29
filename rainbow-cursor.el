@@ -2,7 +2,7 @@
 
 ;; Copyright (C) 2016  Christo Gouws
 
-;; Author: Christo Gouws <gouws.christo@gmail.com>
+;; Author: Christo Gouws <email_address>
 ;; Keywords: lisp,rainbow,cursor,color
 ;; Version: 0.0.1
 
