@@ -15,29 +15,29 @@ Add the following to your .emacs file:
 Feel free to create your own themes, below is some suggestions.
 
 
-`;; Peaceful`
+`;; Peaceful`  
 `(setq rainbow-cursor-colors '("tan1" "deep sky blue" "lawn green" "yellow" "orange" "purple" "pink"))`
 
-`;; Valentine`
+`;; Valentine`  
 `(setq rainbow-cursor-colors '("brown" "firebrick" "light coral" "salmon" "tomato" "red" "pink"))`
 
-`;; Prey mantis`
+`;; Prey mantis`  
 `(setq rainbow-cursor-colors '("chartreuse" "lawn green" "green" "spring green" "medium spring green"))`
 
-`;; Peaceful`
+`;; Peaceful`  
 `(setq rainbow-cursor-colors '("tan1" "deep sky blue" "lawn green" "yellow" "orange" "purple" "pink"))`
 
-`;; Valentine`
+`;; Valentine`  
 `(setq rainbow-cursor-colors '("brown" "firebrick" "light coral" "salmon" "tomato" "red" "pink"))`
 
-`;; Prey mantis`
+`;; Prey mantis`  
 `(setq rainbow-cursor-colors '("chartreuse" "lawn green" "green" "spring green" "medium spring green"))`
 
-`;; Black and Gold`
+`;; Black and Gold`  
 `(setq rainbow-cursor-colors '("black" "gold"))`
 
-`;; Chocolate`
+`;; Chocolate`  
 `(setq rainbow-cursor-colors '("sienna" "saddle brown" "chocolate" "peru"))`
 
-`;; Ocean`
+`;; Ocean`  
 `(setq rainbow-cursor-colors '("light sea green" "medium aquamarine" "dark cyan" "dark turquoise" "sky blue"))`
