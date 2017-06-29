@@ -12,6 +12,8 @@ Add the following to your .emacs file:
 
 
 ## <b>Themes</b>
+Feel free to create your own themes, below is some suggestions.
+
 
 `;; Peaceful`
 `(setq rainbow-cursor-colors '("tan1" "deep sky blue" "lawn green" "yellow" "orange" "purple" "pink"))`
