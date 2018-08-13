@@ -12,7 +12,7 @@ Add the following to your .emacs file:
 
 
 ## <b>Themes</b>
-Feel free to create your own themes, below is some suggestions.
+Feel free to create your own themes, below are some suggestions.
 
 
 `;; Peaceful`  
